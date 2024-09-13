@@ -47,7 +47,7 @@ function calculateTotalQuantity(data, productCode) {
     return totalQuantity;
 }
 
-// productCode yang ingin dicari
+// productCode yang dicari
 const targetProductCode = "FBR00040101";
 
 // Fungsi untuk menghitung total quantity untuk produk tersebut
